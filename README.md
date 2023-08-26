@@ -1,10 +1,14 @@
+## Netflix Clone App
+This is a Netflix clone application.
+
+While developing the application, I utilized Xcode with the UIKit framework in Swift programming language. For the movie database, I integrated the MovieDB API service. To display movie trailers, I integrated the YouTube Google API service. The software architecture employed is MVVM. The development process involved coding without using storyboards; everything was developed programmatically. With this application, users can explore current movies, watch their trailers, and perform movie searches.
+
+### Home Page
+<img width="341" alt="Home Page" src="https://github.com/Cengizhandumlu/NetflixClone/assets/24255354/fdda717c-dd72-4a7d-aa25-a3185f162da3">
 
 ## Architecture=> Model-View-ViewModel (MVVM)
 ## API=> themoviedb, youtube.googleapis 
 ## Without Storyboard
-
-### Home Page
-<img width="341" alt="Home Page" src="https://github.com/Cengizhandumlu/NetflixClone/assets/24255354/fdda717c-dd72-4a7d-aa25-a3185f162da3">
 
 ### Home Page
 <img width="341" alt="Screenshot 2023-08-26 at 18 45 02" src="https://github.com/Cengizhandumlu/NetflixClone/assets/24255354/20725944-3428-474e-90f5-690de7dd93f2">
