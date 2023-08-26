@@ -3,23 +3,28 @@ This is a Netflix clone application.
 
 While developing the application, I utilized Xcode with the UIKit framework in Swift programming language. For the movie database, I integrated the MovieDB API service. To display movie trailers, I integrated the YouTube Google API service. The software architecture employed is MVVM. The development process involved coding without using storyboards; everything was developed programmatically. With this application, users can explore current movies, watch their trailers, and perform movie searches.
 
+
+
 ### Home Page
-<img width="341" alt="Home Page" src="https://github.com/Cengizhandumlu/NetflixClone/assets/24255354/fdda717c-dd72-4a7d-aa25-a3185f162da3">
+<img src="https://github.com/Cengizhandumlu/NetflixClone/assets/24255354/5fd7e181-b656-4974-b7ba-5a1128165bae" width="450" >
 
 ## Architecture=> Model-View-ViewModel (MVVM)
 ## API=> themoviedb, youtube.googleapis 
 ## Without Storyboard
 
 ### Home Page
-<img width="341" alt="Screenshot 2023-08-26 at 18 45 02" src="https://github.com/Cengizhandumlu/NetflixClone/assets/24255354/20725944-3428-474e-90f5-690de7dd93f2">
+<img src="https://github.com/Cengizhandumlu/NetflixClone/assets/24255354/543d068e-bd21-48d8-9cd0-f3351114bae3" width="450" >
 
 ### Upcoming Page
-<img width="341" alt="Screenshot 2023-08-26 at 18 45 14" src="https://github.com/Cengizhandumlu/NetflixClone/assets/24255354/d5a718ab-fe82-4f95-9c2e-bb4c50d1ef83">
+<img src="https://github.com/Cengizhandumlu/NetflixClone/assets/24255354/af3eee80-1178-410a-a0ea-f064a8676f2e" width="450" >
+
+### Upcoming Page
+<img src="https://github.com/Cengizhandumlu/NetflixClone/assets/24255354/e0e58b96-d03e-4740-a08d-8519df8c8f6d" width="450" >
 
 ### Search Page
-<img width="341" alt="Screenshot 2023-08-26 at 18 45 24" src="https://github.com/Cengizhandumlu/NetflixClone/assets/24255354/89d3b7b2-f744-4c8f-8476-68e699a40953">
+<img src="https://github.com/Cengizhandumlu/NetflixClone/assets/24255354/0412fc17-5208-4f3c-ad26-9c08f96a1e49" width="450" >
 
 ### Search Page
-<img width="341" alt="Screenshot 2023-08-26 at 18 45 38" src="https://github.com/Cengizhandumlu/NetflixClone/assets/24255354/8a37619b-e456-4155-ab82-024e49fed83d">
+<img src="https://github.com/Cengizhandumlu/NetflixClone/assets/24255354/4d74d1ad-6c55-45e1-9505-6ae579617bf3" width="450" >
 
 
